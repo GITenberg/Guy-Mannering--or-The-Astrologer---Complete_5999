@@ -1,0 +1,43 @@
+_repo: Guy-Mannering--or-The-Astrologer---Complete_5999
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 5999/5999-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Malagrowther, Malachi
+    - Scott, Sir Walter
+    - Cleishbotham, Jedediah
+    - Templeton, Laurence
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: "HTML file\r\nSee also PG#2590 and PG#5355"
+gutenberg_bookshelf:
+- Historical Fiction
+- Harvard Classics
+gutenberg_issued: '2004-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5999'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Disinheritance -- Fiction'
+- !lcsh 'Scotland -- Social life and customs -- 18th century'
+- !lcc 'PR'
+- !lcsh 'Astrologers -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Scotland -- Fiction'
+- GITenberg
+title: Guy Mannering; or, The Astrologer — Complete
+url: http://www.gutenberg.org/ebooks/5999
